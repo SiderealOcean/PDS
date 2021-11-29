@@ -1,3 +1,4 @@
+##Generar señales con Python para el ciclo de publicaciones sobre procesamiento digital de señales PDS 
 #Importanto las librerías necesarias
 import numpy as np
 import matplotlib.pyplot as plt
